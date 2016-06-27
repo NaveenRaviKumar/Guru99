@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Webdriver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache POI"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log4j"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XSLT"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mailing"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

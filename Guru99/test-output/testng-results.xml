@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Guru99" duration-ms="1187" started-at="2016-06-27T19:12:21Z" finished-at="2016-06-27T19:12:22Z">
+    <groups>
+    </groups>
+    <test name="HomeLoginTest" duration-ms="1187" started-at="2016-06-27T19:12:21Z" finished-at="2016-06-27T19:12:22Z">
+      <class name="testCases.VerifyHomeLoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.VerifyHomeLoginPage@1b64c45]" name="setUp" is-config="true" duration-ms="7432" started-at="2016-06-27T12:12:13Z" finished-at="2016-06-27T12:12:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkRunMode()[pri:0, instance:testCases.VerifyHomeLoginPage@1b64c45]" name="checkRunMode" is-config="true" duration-ms="10" started-at="2016-06-27T12:12:21Z" finished-at="2016-06-27T12:12:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="testLogin(java.util.Hashtable)[pri:0, instance:testCases.VerifyHomeLoginPage@1b64c45]" name="testLogin" duration-ms="1165" started-at="2016-06-27T12:12:21Z" data-provider="getData" finished-at="2016-06-27T12:12:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=UmUmynu, username=mngr41721}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.VerifyHomeLoginPage@1b64c45]" name="tearDown" is-config="true" duration-ms="1" started-at="2016-06-27T12:12:22Z" finished-at="2016-06-27T12:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.VerifyHomeLoginPage -->
+    </test> <!-- HomeLoginTest -->
+  </suite> <!-- Guru99 -->
+</testng-results>

@@ -1,0 +1,14 @@
+26/06/2016 12:20:53 devpinoyLogger Loading testdata Excel...
+26/06/2016 12:20:53 devpinoyLogger testdata Excel loaded
+26/06/2016 12:20:56 devpinoyLogger Getting browser
+26/06/2016 12:20:58 devpinoyLogger Getting URL
+26/06/2016 12:20:58 devpinoyLogger Checking Runmode..
+26/06/2016 12:20:58 devpinoyLogger In Dataprovider
+26/06/2016 12:20:58 devpinoyLogger Data returned
+26/06/2016 12:20:58 devpinoyLogger Login Page Testing
+26/06/2016 12:20:59 devpinoyLogger Retrying test testLogin with status FAILURE for the 1 time(s).
+26/06/2016 12:20:59 devpinoyLogger In Dataprovider
+26/06/2016 12:20:59 devpinoyLogger Data returned
+26/06/2016 12:20:59 devpinoyLogger Login Page Testing
+26/06/2016 12:21:10 devpinoyLogger Error occured
+26/06/2016 12:21:12 devpinoyLogger Quitting...

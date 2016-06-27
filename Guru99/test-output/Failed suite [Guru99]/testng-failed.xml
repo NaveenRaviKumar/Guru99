@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Guru99]]">
+  <test name="HomeLoginTest(failed)(failed)">
+    <classes>
+      <class name="testCases.VerifyHomeLoginPage">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.VerifyHomeLoginPage -->
+    </classes>
+  </test> <!-- HomeLoginTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Guru99]] -->
